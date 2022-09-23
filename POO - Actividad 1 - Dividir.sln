@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO - Actividad 1 - Dividir", "POO - Actividad 1 - Dividir\POO - Actividad 1 - Dividir.csproj", "{37012E89-431A-4B63-A643-3A6F91492E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37012E89-431A-4B63-A643-3A6F91492E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37012E89-431A-4B63-A643-3A6F91492E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37012E89-431A-4B63-A643-3A6F91492E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37012E89-431A-4B63-A643-3A6F91492E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4302CF03-4A16-40D7-AA6A-FAE607A35E25}
+	EndGlobalSection
+EndGlobal
